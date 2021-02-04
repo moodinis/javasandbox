@@ -1,6 +1,7 @@
 package javasandbox;
 //Adding a comment
-//New project
+//New project comments
+
 public class Main {
 
 	public static void main(String[] args) {
