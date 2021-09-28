@@ -14,6 +14,8 @@ public class Main {
 		int event = 1;
 		int[] eventSpace = {1,2,3,4,5,6};
 		Probability.calculateProbability(1, eventSpace);
+		
+		//test
 
 	}
 
